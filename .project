@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>bigspace</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.powerflasher.fdt.core.FlashBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.powerflasher.fdt.core.FlashNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>feathers_github</name>
+			<type>2</type>
+			<locationURI>feathers_github</locationURI>
+		</link>
+		<link>
+			<name>starling_github</name>
+			<type>2</type>
+			<locationURI>starling_github</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
